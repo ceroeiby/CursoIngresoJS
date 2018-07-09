@@ -17,5 +17,4 @@ function mostrarAumento()
 				descuento=parseInt(descuento);
 
 
-	//alert("su descuento es "+resDescuento);
 }
